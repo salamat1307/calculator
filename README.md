@@ -1,14 +1,13 @@
-# Laravel, Vuejs,Vuetify simple comment system
+# Simple Macbook calculator on Vuejs
 
 ## Project setup
 ```
-composer install
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run start
+npm run serve
 ```
 
 ### Compiles and minifies for production
